@@ -1,2 +1,5 @@
 # Synthetic_Images_GAN
-Generating synthetic images using Generative Adversarial Networks and PyTorch
+Using PyTorch to generate new synthetic images from a dataset of given images.
+PyTorch to create the Generator and Discriminator Networks and training the model.
+Feeding the model a dataset of images from which it generates new synthetic images.
+
