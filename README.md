@@ -28,5 +28,5 @@ Displaying Sixteen images from the original dataset:
 - Jupyter Notebooks
 ## Usefull Links
 * [PyTorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
-- [Python](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+- [Python](https://docs.python.org/3/tutorial/)
 - [TensorFlow (For those curious people)](https://www.datacamp.com/tutorial/tensorflow-tutorial)
