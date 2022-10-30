@@ -15,6 +15,10 @@ The model is fed the dataset of images from which it generates new synthetic ima
 - Generator- Creating the generator network.
 - Loss Function and Load Optimizer- Creatning the loss function and optimizing the generator and discriminator networks with Adam Optimizer
 - Training Loop- Running the training loop and training the model
+## Installation
+This project has the following dependencies:
+* Numpy **!pip install numpy**
+- PyTorch **!pip install torch**
 ## Prerequisites
 * PyTorch and basic understanding of Neural Networks
 - Python
