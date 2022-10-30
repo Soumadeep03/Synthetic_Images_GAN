@@ -19,6 +19,9 @@ The model is fed the dataset of images from which it generates new synthetic ima
 This project has the following dependencies:
 * Numpy `!pip install numpy`
 - PyTorch `!pip install torch`
+## Results
+Displaying Sixteen images from the original dataset:
+
 ## Prerequisites
 * PyTorch and basic understanding of Neural Networks
 - Python
