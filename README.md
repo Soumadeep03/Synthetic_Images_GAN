@@ -1,4 +1,4 @@
-# Generating Synthetic Images Using PyTorch and Generative Adversarial Networks(GAN)
+# Generating Synthetic Images Using PyTorch and Deep Convolution Generative Adversarial Networks(DCGAN)
 
 ## Overview
 PyTorch is a machine learning framework that accelerates the path from research prototyping to production deployment.
